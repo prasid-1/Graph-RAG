@@ -1,6 +1,5 @@
 from src.createGraph import create_graph
 from src import fullTextIndexQuery
-from src.embeddings import neo4jInit
 
 
 # add NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD to .env before running
