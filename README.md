@@ -78,17 +78,3 @@ This will call the graph retriever in `src/fullTextIndexQuery.py` and print resu
 - Empty results: ensure documents were processed into the graph by running `create_graph()` first.
 
 ---
-
-## Contributing
-
-Contributions are welcome. Please open issues or pull requests describing the change.
-
----
-
-## License
-
-Add your license here (e.g., MIT) or remove this section if you prefer a different license.
-
----
-
-If you want, I can also add examples, screenshots, or expand the Troubleshooting and Development sections — tell me what to include. ✨
